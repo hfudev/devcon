@@ -1,0 +1,5 @@
+# vscode
+.history/
+
+# js
+node_modules/
